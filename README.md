@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ibrahim 👋
 
-<!--
-**ibrahimniyazov0/ibrahimniyazov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Junior Data Analyst with strong skills in **SQL** and **Excel**  
+- Building portfolio projects to demonstrate end-to-end workflows  
+- Interested in Data Visualization, Business Intelligence, and Analytics  
 
-Here are some ideas to get you started:
+## Portfolio Projects
+- [Customer Segmentation](https://github.com/ibrahimnjazov0/Customer_segmentation)  
+- [Sales Trend Analysis by Product Category](https://github.com/ibrahimnjazov0/Sales-trend-analysis-by-Product-Category)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL: SELECT, JOIN, Aggregate Functions, CASE WHEN, CTE  
+- Excel: Pivot Tables, Charts, Data Cleaning, Visualization  
+- Languages: Azerbaijani, Turkish, English, Russian, German  
+
+## Connect with Me
+- 📧 Email: ibrahim.niyazov90@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/ibrahim-niyazov90](http://www.linkedin.com/in/ibrahim-niyazov90)  
+- 💻 GitHub: [github.com/ibrahimnjazov0](https://github.com/ibrahimnjazov0)
