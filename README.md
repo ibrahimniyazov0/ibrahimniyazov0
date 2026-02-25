@@ -6,8 +6,8 @@
 - Interested in Data Visualization, Business Intelligence, and Analytics  
 
 ## Portfolio Projects
-- [Customer Segmentation](https://github.com/ibrahimnjazov0/Customer_segmentation)  
-- [Sales Trend Analysis by Product Category](https://github.com/ibrahimnjazov0/Sales-trend-analysis-by-Product-Category)  
+- [Customer Segmentation](https://github.com/ibrahimniyazov0/Customer_segmentation)
+- [Sales Trend Analysis by Product Category](https://github.com/ibrahimniyazov0/Sales-trend-analysis-by-Product-Category)  
 
 ## Skills
 - SQL: SELECT, JOIN, Aggregate Functions, CASE WHEN, CTE  
