@@ -9,6 +9,7 @@
 - [Customer Segmentation](https://github.com/ibrahimniyazov0/Customer_segmentation)
 - [Sales Trend Analysis by Product Category](https://github.com/ibrahimniyazov0/Sales-trend-analysis-by-Product-Category)  
 - [Top Products by Month & Year](https://github.com/ibrahimniyazov0/Top-Products-By-Month-Year)
+- [SalesDashboard](https://github.com/ibrahiminiyazov0/SalesDashboard) 
      
 ## Skills
 - SQL: SELECT, JOIN, Aggregate Functions, CASE WHEN, CTE  
