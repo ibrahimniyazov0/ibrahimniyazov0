@@ -9,11 +9,12 @@
 - [Customer Segmentation](https://github.com/ibrahimniyazov0/Customer_segmentation)
 - [Sales Trend Analysis by Product Category](https://github.com/ibrahimniyazov0/Sales-trend-analysis-by-Product-Category)  
 - [Top Products by Month & Year](https://github.com/ibrahimniyazov0/Top-Products-By-Month-Year)
-- [SalesDashboard](https://github.com/ibrahiminiyazov0/SalesDashboard) 
+- [SalesDashboard](https://github.com/ibrahimniyazov0/SalesDashboard) 
      
 ## Skills
 - SQL: SELECT, JOIN, Aggregate Functions, CASE WHEN, CTE  
-- Excel: Pivot Tables, Charts, Data Cleaning, Visualization  
+- Excel: Pivot Tables, Charts, Data Cleaning, Visualization
+- Power BI: Dashboard creation and data visualization
 - Languages: Azerbaijani, Turkish, English, Russian, German  
 
 ## Connect with Me
